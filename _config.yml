@@ -1,0 +1,33 @@
+title: "Yiming Hu"
+description: "Personal academic website for Yiming Hu."
+author:
+  name: "Yiming Hu"
+  affiliation: "Peking University"
+  email: ""
+  location: ""
+  github: "https://github.com/glitter4"
+  github_username: "glitter4"
+
+url: "https://glitter4.github.io"
+baseurl: ""
+
+permalink: /blog/:year/:month/:day/:title/
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "Papers"
+    url: /papers/
+  - title: "Research"
+    url: /research/
+  - title: "Blog"
+    url: /blog/
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
