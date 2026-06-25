@@ -13,11 +13,11 @@ This is a lightweight Jekyll site for GitHub Pages.
 
 ## Publish on GitHub Pages
 
-1. Create a GitHub repository named `YOUR_USERNAME.github.io`.
+1. Create a GitHub repository named `glitter2.github.io`.
 2. Push this folder to the repository.
 3. In GitHub, open **Settings > Pages**.
 4. Set the source to the default branch and root folder.
-5. Visit `https://YOUR_USERNAME.github.io`.
+5. Visit `https://glitter4.github.io/glitter2.github.io/`.
 
 ## Local Preview
 
